@@ -5,7 +5,11 @@ This is the line added in the conf file from master branch
 Added new apps please monitor
 Added tool
 added pick
+<<<<<<< HEAD
 adding java
 python
 change1 in master branch
 change2 in master branch
+=======
+
+>>>>>>> c9b9b0ca7a6a32d1898cfa633da38d9dbb710c02
